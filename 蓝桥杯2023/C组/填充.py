@@ -13,3 +13,5 @@ for i in range(1,n):
     index += 1
 print(dp[-1])
 
+# import sys
+# input = lambda: sys.stdin.readline().strip()
